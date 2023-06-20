@@ -1,0 +1,32 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none; /*para sacar el subrayado a la etiqueta <a>*/
+    list-style: none; /*desactivar ordenar una lista de elementos que se encuentra en <ul>*/
+    margin: 0px;
+    padding: 0px; 
+}
+body
+    {
+    background-color: #BFCFE8;
+    }
+.header{
+    background-color: #6793ec;
+    display: flex; /*los elementos se adaptan en forma horizontal*/
+    justify-content: space-between; /*justificar los contenidos*/
+    align-items: center;
+    padding: .5rem 2rem; /*es una medida igual que los px*/
+    }
+.menu ul
+    {
+    display: flex; 
+    align-items: center; 
+    }
+.menu li
+    {
+    margin-right: 1.5rem; 
+    }
+.menu a:hover
+    {
+    color: #4ad295; 
+    }
+    
