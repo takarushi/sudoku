@@ -16,7 +16,7 @@
     <div class="container">
         <img src="icon_math.png" alt="">
         <h1>Bienvenido al Sudoku Matemático</h1>
-        <h2>Utiliza el menú de la parte superior para acceder a los diversos ejercicios!</h2>
+        <h2>Elige el ejercicio que deseas relizar con el menú en la parte superior de tu pantalla.</h2>
     </div>
 </body>
 </html>
