@@ -13,6 +13,6 @@
     <?php include "header.php"; ?>
 </header>
 <body>
-    <p>este es el mixta</p>
+    <p>TODO: hacer el mixto</p>
 </body>
 </html>

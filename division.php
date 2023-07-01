@@ -13,6 +13,6 @@
 <?php include "header.php"; ?>
 </header>
 <body>
-    <p>este es el division</p>
+    <p>TODO: hacer la division</p>
 </body>
 </html>
