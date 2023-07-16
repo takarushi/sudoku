@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sudoku Matemático</title>
-    <link rel="stylesheet" href="estilo_multiplica.css">
+    <link rel="stylesheet" href="estilo_suma.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 </head>
 <header>
@@ -21,13 +21,13 @@
         <tr>
             <td class="no-contiene" id="0" ondrop="drop(event)" ondragover="allowDrop(event)"></td>
             <td class="contiene">*</td>
-            <td class="contiene">36</td>
+            <td class="contiene">2</td>
             <td class="contiene">=</td>
             <td class="no-contiene" id="1" ondrop="drop(event)" ondragover="allowDrop(event)"></td>
         </tr>
         <tr>
             <td class="contiene">*</td>
-            <td class="contiene">*</td>
+            <td></td>
             <td class="contiene">*</td>
             <td></td>
             <td class="contiene">*</td>
@@ -35,7 +35,7 @@
         <tr>
         <td class="no-contiene" id="2" ondrop="drop(event)" ondragover="allowDrop(event)"></td>
             <td class="contiene">*</td>
-            <td class="contiene">24</td>
+            <td class="contiene">1</td>
             <td class="contiene">=</td>
             <td class="no-contiene" id="3" ondrop="drop(event)" ondragover="allowDrop(event)"></td>
         </tr>
@@ -43,24 +43,24 @@
             <td class="contiene">=</td>
             <td></td>
             <td class="contiene">=</td>
-            <td class="contiene">=</td>
+            <td></td>
             <td class="contiene">=</td>
         </tr>
         <tr>
-            <td class="contiene">96</td>
+            <td class="contiene">28</td>
             <td class="contiene">*</td>
             <td class="no-contiene" id="4" ondrop="drop(event)" ondragover="allowDrop(event)"></td>
             <td class="contiene">=</td>
-            <td class="contiene">55296</td>
+            <td class="contiene">56</td>
         </tr>
     </table>
     <br>
         <div class="container-alternatives">
-            <div class="box" draggable="true" ondragstart="drag(event)" id="a">8</div>
-            <div class="box" draggable="true" ondragstart="drag(event)" id="b">192</div>
-            <div class="box" draggable="true" ondragstart="drag(event)" id="c">12</div>
-            <div class="box" draggable="true" ondragstart="drag(event)" id="d">288</div>
-            <div class="box" draggable="true" ondragstart="drag(event)" id="e">864</div>
+            <div class="box" draggable="true" ondragstart="drag(event)" id="a">7</div>
+            <div class="box" draggable="true" ondragstart="drag(event)" id="b">14</div>
+            <div class="box" draggable="true" ondragstart="drag(event)" id="c">4</div>
+            <div class="box" draggable="true" ondragstart="drag(event)" id="d">4</div>
+            <div class="box" draggable="true" ondragstart="drag(event)" id="e">2</div>
     </div>
     <br>
     <div class="frame">
