@@ -24,29 +24,19 @@
             <td class="contiene">.</td>
             <td class="contiene">.</td>
             <td class="contiene">.</td>
+            <td></td>
             <td class="contiene">.</td>
-            <td class="contiene">.</td>
-            <td class="contiene">.</td>
+            <td></td>
         </tr>
         <tr>
 <td class="contiene">.</td>
+<td></td>
+<td class="contiene">.</td>
+<td></td>
+<td class="contiene">.</td>
+<td></td>
 <td class="contiene">.</td>
 <td class="contiene">.</td>
-<td class="contiene">.</td>
-<td class="contiene">.</td>
-<td class="contiene">.</td>
-<td class="contiene">.</td>
-<td class="contiene">.</td>
-        </tr>
-        <tr>
-            <td class="contiene">.</td>
-            <td class="contiene">.</td>
-            <td class="contiene">.</td>
-            <td class="contiene">.</td>
-            <td class="contiene">.</td>
-            <td class="contiene">.</td>
-            <td class="contiene">.</td>
-            <td class="contiene">.</td>
         </tr>
         <tr>
             <td class="contiene">.</td>
@@ -54,7 +44,17 @@
             <td class="contiene">.</td>
             <td class="contiene">.</td>
             <td class="contiene">.</td>
+            <td></td>
             <td class="contiene">.</td>
+            <td class="contiene">.</td>
+        </tr>
+        <tr>
+            <td class="contiene">.</td>
+            <td></td>
+            <td class="contiene">.</td>
+            <td></td>
+            <td class="contiene">.</td>
+            <td></td>
             <td class="contiene">.</td>
             <td class="contiene">.</td>
         </tr>
@@ -64,9 +64,29 @@
         <td class="contiene">.</td>
         <td class="contiene">.</td>
         <td class="contiene">.</td>
+        <td></td>
         <td class="contiene">.</td>
         <td class="contiene">.</td>
-        <td class="contiene">.</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td class="contiene">.</td>
+            <td class="contiene">.</td>
+            <td class="contiene">.</td>
+            <td class="contiene">.</td>
+            <td class="contiene">.</td>
+            <td></td>
+            <td class="contiene">.</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td class="contiene">.</td>
+            <td class="contiene">.</td>
+            <td class="contiene">.</td>
+            <td class="contiene">.</td>
+            <td class="contiene">.</td>
         </tr>
         <tr>
             <td class="contiene">.</td>
@@ -74,29 +94,9 @@
             <td class="contiene">.</td>
             <td class="contiene">.</td>
             <td class="contiene">.</td>
-            <td class="contiene">.</td>
-            <td class="contiene">.</td>
-            <td class="contiene">.</td>
-        </tr>
-        <tr>
-            <td class="contiene">.</td>
-            <td class="contiene">.</td>
-            <td class="contiene">.</td>
-            <td class="contiene">.</td>
-            <td class="contiene">.</td>
-            <td class="contiene">.</td>
-            <td class="contiene">.</td>
-            <td class="contiene">.</td>
-        </tr>
-        <tr>
-            <td class="contiene">.</td>
-            <td class="contiene">.</td>
-            <td class="contiene">.</td>
-            <td class="contiene">.</td>
-            <td class="contiene">.</td>
-            <td class="contiene">.</td>
-            <td class="contiene">.</td>
-            <td class="contiene">.</td>
+            <td></td>
+            <td></td>
+            <td></td>
         </tr>
     </table>
     <br>
