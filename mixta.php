@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sudoku Matemático</title>
-    <link rel="stylesheet" href="estilo_suma.css">
+    <link rel="stylesheet" href="estilo_multi.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 </head>
 <header>
@@ -49,21 +49,54 @@
             <td class="contiene">.</td>
         </tr>
         <tr>
-            <td class="contiene">=</td>
-            <td></td>
-            <td class="contiene">=</td>
-            <td></td>
-            <td></td>
+            <td class="contiene">.</td>
+            <td class="contiene">.</td>
+            <td class="contiene">.</td>
+            <td class="contiene">.</td>
+            <td class="contiene">.</td>
             <td class="contiene">.</td>
             <td class="contiene">.</td>
             <td class="contiene">.</td>
         </tr>
         <tr>
-            <td class="contiene">35</td>
-            <td class="contiene">+</td>
-            <td class="no-contiene" id="3" ondrop="drop(event)" ondragover="allowDrop(event)"></td>
-            <td class="contiene">=</td>
-            <td class="no-contiene" id="4" ondrop="drop(event)" ondragover="allowDrop(event)"></td>
+        <td class="contiene">.</td>
+        <td class="contiene">.</td>
+        <td class="contiene">.</td>
+        <td class="contiene">.</td>
+        <td class="contiene">.</td>
+        <td class="contiene">.</td>
+        <td class="contiene">.</td>
+        <td class="contiene">.</td>
+        </tr>
+        <tr>
+            <td class="contiene">.</td>
+            <td class="contiene">.</td>
+            <td class="contiene">.</td>
+            <td class="contiene">.</td>
+            <td class="contiene">.</td>
+            <td class="contiene">.</td>
+            <td class="contiene">.</td>
+            <td class="contiene">.</td>
+        </tr>
+        <tr>
+            <td class="contiene">.</td>
+            <td class="contiene">.</td>
+            <td class="contiene">.</td>
+            <td class="contiene">.</td>
+            <td class="contiene">.</td>
+            <td class="contiene">.</td>
+            <td class="contiene">.</td>
+            <td class="contiene">.</td>
+        </tr>
+        <tr>
+            <td class="contiene">.</td>
+            <td class="contiene">.</td>
+            <td class="contiene">.</td>
+            <td class="contiene">.</td>
+            <td class="contiene">.</td>
+            <td class="contiene">.</td>
+            <td class="contiene">.</td>
+            <td class="contiene">.</td>
         </tr>
     </table>
     <br>
