@@ -5,10 +5,10 @@
     margin: 0px;
     padding: 0px; 
 }
-body
+/* body
     {
-    background-color: #BFCFE8;
-    }
+  background-color: #BFCFE8;
+    } */
 .header{
     background-color: #6793ec;
     display: flex; /*los elementos se adaptan en forma horizontal*/

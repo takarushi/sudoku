@@ -1,3 +1,7 @@
+body
+{
+    background-color: #80007e;
+}
 .container
 {
     width: 600px;
@@ -10,7 +14,7 @@
 .container h1
 {
     text-align: center;
-    color: #083d75
+    color: #80007e
 }
 .container table
 {
@@ -23,13 +27,14 @@
 .contiene
 {
     width: 30px;
-    background-color: #99afc7;
+    background-color: #80007e;
     padding: 30px;
+    color: white;
 }
 .no-contiene
 {
     width: 30px;
-    background-color: #dfe8f1;
+    background-color: #c902c5;
     padding: 1px;
 }
 .container-alternatives
@@ -43,16 +48,16 @@
     width: 30px;
     padding: 18px;
     font-size: 24px;
-    color: #687f4d;
-    background-color: #dde8cf;
-    border: 1px solid #687f4d;
+    color: #fff;
+    background-color: #c200bf;
+    border: 1px solid #ff00fb;
     cursor: pointer;
     margin: 2px;
 }
 .resultado
 {
-    background-color: #99afc7;
-    color: #dfe8f1;
+    background-color: #ee85ec;
+    color: #000;
     text-align: center;
     padding: 15px;
     border-radius: 10px;

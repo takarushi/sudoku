@@ -19,93 +19,96 @@
     <h1>Ejercicios Mixtos</h1>
     <table>
         <tr>
-            <td class="contiene">.</td>
-            <td class="contiene">.</td>
-            <td class="contiene">.</td>
-            <td class="contiene">.</td>
-            <td class="contiene">.</td>
+            <td class="contiene">9</td>
+            <td class="no-contiene" id="0" ondrop="drop(event)" ondragover="allowDrop(event)"></td>
+            <td class="contiene">-</td>
+            <td class="contiene">7</td>
+            <td class="contiene">=</td>
+            <td class="contiene">13</td>
+            <td class="contiene">72</td>
+            <td class="no-contiene" id="1" ondrop="drop(event)" ondragover="allowDrop(event)"></td>
+        </tr>
+        <tr>
+            <td class="contiene">*</td>
+            <td class="contiene">24</td>
+            <td class="contiene">/</td>
+            <td class="no-contiene" id="2" ondrop="drop(event)" ondragover="allowDrop(event)"></td>
+            <td class="contiene">=</td>
+            <td class="contiene">3</td>
+            <td class="contiene">/</td>
+            <td class="contiene">*</td>
+        </tr>
+        <tr>
+            <td class="no-contiene" id="5" ondrop="drop(event)" ondragover="allowDrop(event)"></td>
             <td></td>
-            <td class="contiene">.</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td class="no-contiene" id="6" ondrop="drop(event)" ondragover="allowDrop(event)"></td>
+            <td class="contiene">52</td>
+        </tr>
+        <tr>
+            <td class="contiene">=</td>
+            <td class="contiene">7</td>
+            <td class="contiene">*</td>
+            <td class="no-contiene" id="3" ondrop="drop(event)" ondragover="allowDrop(event)"></td>
+            <td class="contiene">=</td>
+            <td class="contiene">42</td>
+            <td class="contiene">=</td>
+            <td class="contiene">=</td>
+        </tr>
+        <tr>
+            <td class="contiene">81</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td class="contiene">6</td>
+            <td class="contiene">86</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td class="no-contiene" id="4" ondrop="drop(event)" ondragover="allowDrop(event)"></td>
+            <td class="contiene">-</td>
+            <td class="contiene">12</td>
+            <td class="contiene">=</td>
+            <td class="contiene">34</td>
+            <td></td>
             <td></td>
         </tr>
         <tr>
-<td class="contiene">.</td>
-<td></td>
-<td class="contiene">.</td>
-<td></td>
-<td class="contiene">.</td>
-<td></td>
-<td class="contiene">.</td>
-<td class="contiene">.</td>
-        </tr>
-        <tr>
             <td class="contiene">.</td>
             <td class="contiene">.</td>
             <td class="contiene">.</td>
             <td class="contiene">.</td>
             <td class="contiene">.</td>
-            <td></td>
+            <td class="contiene">.</td>
             <td class="contiene">.</td>
             <td class="contiene">.</td>
         </tr>
         <tr>
-            <td class="contiene">.</td>
-            <td></td>
-            <td class="contiene">.</td>
-            <td></td>
-            <td class="contiene">.</td>
-            <td></td>
-            <td class="contiene">.</td>
-            <td class="contiene">.</td>
-        </tr>
-        <tr>
-        <td class="contiene">.</td>
-        <td class="contiene">.</td>
-        <td class="contiene">.</td>
-        <td class="contiene">.</td>
-        <td class="contiene">.</td>
         <td></td>
-        <td class="contiene">.</td>
-        <td class="contiene">.</td>
-        </tr>
-        <tr>
-            <td></td>
-            <td class="contiene">.</td>
-            <td class="contiene">.</td>
-            <td class="contiene">.</td>
-            <td class="contiene">.</td>
-            <td class="contiene">.</td>
-            <td></td>
-            <td class="contiene">.</td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td class="contiene">.</td>
-            <td class="contiene">.</td>
-            <td class="contiene">.</td>
-            <td class="contiene">.</td>
-            <td class="contiene">.</td>
-        </tr>
-        <tr>
-            <td class="contiene">.</td>
-            <td class="contiene">.</td>
-            <td class="contiene">.</td>
-            <td class="contiene">.</td>
-            <td class="contiene">.</td>
-            <td></td>
-            <td></td>
-            <td></td>
+        <td></td>
+        <td></td>
+        <td class="contiene">25</td>
+        <td class="contiene">+</td>
+        <td class="no-contiene" id="7" ondrop="drop(event)" ondragover="allowDrop(event)"></td>
+        <td class="contiene">=</td>
+        <td class="contiene">86</td>
         </tr>
     </table>
     <br>
         <div class="container-alternatives">
-            <div class="box" draggable="true" ondragstart="drag(event)" id="a">52</div>
-            <div class="box" draggable="true" ondragstart="drag(event)" id="b">1</div>
-            <div class="box" draggable="true" ondragstart="drag(event)" id="c">17</div>
-            <div class="box" draggable="true" ondragstart="drag(event)" id="d">16</div>
-            <div class="box" draggable="true" ondragstart="drag(event)" id="e">9</div>
+            <div class="box" draggable="true" ondragstart="drag(event)" id="a">20</div>
+            <div class="box" draggable="true" ondragstart="drag(event)" id="b">34</div>
+            <div class="box" draggable="true" ondragstart="drag(event)" id="c">8</div>
+            <div class="box" draggable="true" ondragstart="drag(event)" id="d">6</div>
+            <div class="box" draggable="true" ondragstart="drag(event)" id="e">46</div>
+            <div class="box" draggable="true" ondragstart="drag(event)" id="f">9</div>
+            <div class="box" draggable="true" ondragstart="drag(event)" id="g">12</div>
+            <div class="box" draggable="true" ondragstart="drag(event)" id="h">64</div>
     </div>
     <br>
     <div class="frame">
@@ -127,7 +130,7 @@
     <h2>Resuelve el sudoku y verás aqui el resultado</h2>
     </div>
 </div>
-<script src="sumar.js"></script>
+<script src="mixto.js"></script>
 <script src="time.js"></script>
 </body>
 </html>

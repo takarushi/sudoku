@@ -9,11 +9,13 @@
     <title>Sudoku Matemático</title>
     <link rel="stylesheet" href="estilo_suma.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <style  type="text/css">
+</style>
 </head>
 <header>
-    <?php include "header.php"; ?>
+<?php include "header.php"; ?>
 </header>
-<body>
+<body style="background:<?=$backgrounds;?>;">
     <br>
     <div class="container">
     <h1>Sumar</h1>
